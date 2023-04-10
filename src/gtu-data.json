@@ -1,0 +1,388 @@
+{
+    "Branch": {
+      "Automobile Engineering ": {
+        "branch_logo": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/BranchLogo%2F1674565574650?alt=media&token=8cb6e814-d7c3-4bad-8f57-ccbadf825891",
+        "branch_name": "Automobile Engineering "
+      },
+      "Chemical Engineering ": {
+        "branch_logo": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/BranchLogo%2F1674565592778?alt=media&token=c7c8f1c3-dfe2-4647-8875-8f1f7c94aac6",
+        "branch_name": "Chemical Engineering "
+      },
+      "Civil Engineering ": {
+        "branch_logo": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/BranchLogo%2F1671543281448?alt=media&token=9d619786-ab86-4106-95a0-f2eeecd76b5a",
+        "branch_name": "Civil Engineering "
+      },
+      "Computer Engineering ": {
+        "branch_logo": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/BranchLogo%2F1671543235734?alt=media&token=0a6bc800-bdbd-4905-b5d4-bd756b6128d0",
+        "branch_name": "Computer Engineering "
+      },
+      "Electrical Engineering ": {
+        "branch_logo": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/BranchLogo%2F1671543268445?alt=media&token=3e0add27-4023-4732-af53-9de508e60c07",
+        "branch_name": "Electrical Engineering "
+      },
+      "Information Technology ": {
+        "SemList": {
+          "Sem 3": {
+            "SubjectList": {
+              "DF": {
+                "PaperList": {
+                  "DF_summer_2020": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%203%2FDF%2FDF_summer_2020?alt=media&token=06466de3-b6f8-4428-b872-bf09fcadc5f3",
+                    "paper_name": "DF_summer_2020"
+                  },
+                  "DF_summer_2022": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%203%2FDF%2FDF_summer_2022?alt=media&token=235509f8-d725-47b8-b95a-a95862060948",
+                    "paper_name": "DF_summer_2022"
+                  },
+                  "DF_winter_2019": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%203%2FDF%2FDF_winter_2019?alt=media&token=cacb11e5-6220-4b1d-8e14-34cf631a18a6",
+                    "paper_name": "DF_winter_2019"
+                  },
+                  "DF_winter_2020": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%203%2FDF%2FDF_winter_2020?alt=media&token=6e8667ac-1f82-436c-a461-fe1889bc8b26",
+                    "paper_name": "DF_winter_2020"
+                  },
+                  "DF_winter_2021": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%203%2FDF%2FDF_winter_2021?alt=media&token=d96e02d2-97bd-4f34-8b9b-d164cbcd2b21",
+                    "paper_name": "DF_winter_2021"
+                  }
+                },
+                "subject_name": "DF"
+              },
+              "DMS": {
+                "PaperList": {
+                  "DMS_summer_2020": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%203%2FDMS%2FDMS_summer_2020?alt=media&token=027107f5-2c87-454b-916a-4d460dd69e95",
+                    "paper_name": "DMS_summer_2020"
+                  },
+                  "DMS_summer_2021": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%203%2FDMS%2FDMS_summer_2021?alt=media&token=ae83026d-2082-4eea-852a-5a39178c4bc6",
+                    "paper_name": "DMS_summer_2021"
+                  },
+                  "DMS_winter_2019": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%203%2FDMS%2FDMS_winter_2019?alt=media&token=33174bda-1473-46ed-abc4-0e6a784a4f60",
+                    "paper_name": "DMS_winter_2019"
+                  },
+                  "DMS_winter_2020": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%203%2FDMS%2FDMS_winter_2020?alt=media&token=a04402b6-946e-4749-9250-d1381643266c",
+                    "paper_name": "DMS_winter_2020"
+                  },
+                  "DMS_winter_2021": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%203%2FDMS%2FDMS_winter_2021?alt=media&token=c7f5e81b-7217-454e-ba80-177e299363b2",
+                    "paper_name": "DMS_winter_2021"
+                  }
+                },
+                "subject_name": "DMS"
+              },
+              "DS": {
+                "PaperList": {
+                  "DS_summer_2020": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%203%2FDS%2FDS_summer_2020?alt=media&token=6cb6f486-185e-4395-8e6b-dd6f555656b9",
+                    "paper_name": "DS_summer_2020"
+                  },
+                  "DS_summer_2021": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%203%2FDS%2FDS_summer_2021?alt=media&token=a9928b82-91e5-4ba1-941f-04f6fd1ad6f4",
+                    "paper_name": "DS_summer_2021"
+                  },
+                  "DS_winter_2019": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%203%2FDS%2FDS_winter_2019?alt=media&token=22c1083f-5f5b-49a9-aaab-ffeece159c8c",
+                    "paper_name": "DS_winter_2019"
+                  },
+                  "DS_winter_2020": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%203%2FDS%2FDS_winter_2020?alt=media&token=08778e53-7c86-422e-955b-c589946d3201",
+                    "paper_name": "DS_winter_2020"
+                  },
+                  "DS_winter_2021": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%203%2FDS%2FDS_winter_2021?alt=media&token=4fe8b352-2379-4fa4-8995-a460e140c6d4",
+                    "paper_name": "DS_winter_2021"
+                  }
+                },
+                "subject_name": "DS"
+              },
+              "ETC": {
+                "PaperList": {
+                  "ETC_summer_2020": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%203%2FETC%2FETC_summer_2020?alt=media&token=ed057d5a-a362-498d-a7c4-bdccf1d2e04a",
+                    "paper_name": "ETC_summer_2020"
+                  },
+                  "ETC_summer_2021": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%203%2FETC%2FETC_summer_2021?alt=media&token=98bd6de2-e457-4937-a19a-511a8a1c6773",
+                    "paper_name": "ETC_summer_2021"
+                  },
+                  "ETC_summer_2022": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%203%2FETC%2FETC_summer_2022?alt=media&token=366f3baf-34bd-4f79-bddd-e7af8a512aa2",
+                    "paper_name": "ETC_summer_2022"
+                  },
+                  "ETC_winter_2019": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%203%2FETC%2FETC_winter_2019?alt=media&token=d56c99b9-b6fd-485c-b689-e908dc6c7fbe",
+                    "paper_name": "ETC_winter_2019"
+                  },
+                  "ETC_winter_2020": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%203%2FETC%2FETC_winter_2020?alt=media&token=9e9a4f4c-0813-4020-a4e9-517b61d29a3b",
+                    "paper_name": "ETC_winter_2020"
+                  },
+                  "ETC_winter_2021": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%203%2FETC%2FETC_winter_2021?alt=media&token=d9be562b-1ab6-4a56-9d9a-4922ce87bf76",
+                    "paper_name": "ETC_winter_2021"
+                  }
+                },
+                "subject_name": "ETC"
+              },
+              "IC": {
+                "PaperList": {
+                  "IC_summer_2020": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%203%2FIC%2FIC_summer_2020?alt=media&token=8f7badd0-2a86-4b4b-9865-edcaf993d2c5",
+                    "paper_name": "IC_summer_2020"
+                  },
+                  "IC_summer_2021": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%203%2FIC%2FIC_summer_2021?alt=media&token=904f74e4-3c73-4174-b33f-07bb4dbb1613",
+                    "paper_name": "IC_summer_2021"
+                  },
+                  "IC_summer_2022": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%203%2FIC%2FIC_summer_2022?alt=media&token=877728e1-927b-4466-a0eb-f861091d788c",
+                    "paper_name": "IC_summer_2022"
+                  },
+                  "IC_winter_2019": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%203%2FIC%2FIC_winter_2019?alt=media&token=da725fde-3966-4cad-88eb-4da50945d0c4",
+                    "paper_name": "IC_winter_2019"
+                  },
+                  "IC_winter_2020": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%203%2FIC%2FIC_winter_2020?alt=media&token=31fad2cd-b507-41b0-a33f-0e433e107dbe",
+                    "paper_name": "IC_winter_2020"
+                  },
+                  "IC_winter_2021": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%203%2FIC%2FIC_winter_2021?alt=media&token=9b637d25-f82f-451e-bf20-f509f5cc81ab",
+                    "paper_name": "IC_winter_2021"
+                  }
+                },
+                "subject_name": "IC"
+              },
+              "PS": {
+                "PaperList": {
+                  "PS_summer_2020": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%203%2FPS%2FPS_summer_2020?alt=media&token=4109998e-ee2f-42af-9aa0-a22021cd383b",
+                    "paper_name": "PS_summer_2020"
+                  },
+                  "PS_summer_2021": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%203%2FPS%2FPS_summer_2021?alt=media&token=e141c626-5b80-40e9-8a5d-2671c7c41540",
+                    "paper_name": "PS_summer_2021"
+                  },
+                  "PS_summer_2022": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%203%2FPS%2FPS_summer_2022?alt=media&token=b6b5156c-d66c-43f5-95a6-536a5d810839",
+                    "paper_name": "PS_summer_2022"
+                  },
+                  "PS_winter_2019": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%203%2FPS%2FPS_winter_2019?alt=media&token=68b93841-336f-4fcf-87d1-50d188e32751",
+                    "paper_name": "PS_winter_2019"
+                  },
+                  "PS_winter_2020": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%203%2FPS%2FPS_winter_2020?alt=media&token=ef9d18a9-2ae0-4ac8-9b1b-897c274a5048",
+                    "paper_name": "PS_winter_2020"
+                  },
+                  "PS_winter_2021": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%203%2FPS%2FPS_winter_2021?alt=media&token=b4d47734-7779-473b-8eec-957b5ba75204",
+                    "paper_name": "PS_winter_2021"
+                  }
+                },
+                "subject_name": "PS"
+              }
+            },
+            "sem_name": "Sem 3"
+          },
+          "Sem 4": {
+            "SubjectList": {
+              "COA": {
+                "PaperList": {
+                  "COA_summer_2020": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%204%2FCOA%2FCOA_summer_2020?alt=media&token=cf452181-6e4a-40a0-8e28-d4eab235551b",
+                    "paper_name": "COA_summer_2020"
+                  },
+                  "COA_summer_2021": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%204%2FCOA%2FCOA_summer_2021?alt=media&token=c1acae09-3820-4f93-95b0-efae2dff4165",
+                    "paper_name": "COA_summer_2021"
+                  },
+                  "COA_summer_2022": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%204%2FCOA%2FCOA_summer_2022?alt=media&token=8d4a12f4-1acd-47d6-acb4-27fb9ae4e41b",
+                    "paper_name": "COA_summer_2022"
+                  },
+                  "COA_winter_2020": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%204%2FCOA%2FCOA_winter_2020?alt=media&token=56edda6b-1a3d-4b9c-a93e-24b2380f1571",
+                    "paper_name": "COA_winter_2020"
+                  },
+                  "COA_winter_2021": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%204%2FCOA%2FCOA_winter_2021?alt=media&token=b6b60bb9-4848-48b1-93b7-4c9f3d81163d",
+                    "paper_name": "COA_winter_2021"
+                  }
+                },
+                "subject_name": "COA"
+              },
+              "DM": {
+                "PaperList": {
+                  "DM_summer_2020": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%204%2FDM%2FDM_summer_2020?alt=media&token=582baec8-528b-4dbd-8e6f-1ec58b38690a",
+                    "paper_name": "DM_summer_2020"
+                  },
+                  "DM_summer_2021": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%204%2FDM%2FDM_summer_2021?alt=media&token=812c0c08-5863-4577-8db9-3f41d6b5394d",
+                    "paper_name": "DM_summer_2021"
+                  },
+                  "DM_summer_2022": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%204%2FDM%2FDM_summer_2022?alt=media&token=787d6fe7-6be1-490c-96de-3f9b58149d9d",
+                    "paper_name": "DM_summer_2022"
+                  },
+                  "DM_winter_2020": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%204%2FDM%2FDM_winter_2020?alt=media&token=8ae13948-2df6-4a1e-b864-a401b33bca16",
+                    "paper_name": "DM_winter_2020"
+                  },
+                  "DM_winter_2021": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%204%2FDM%2FDM_winter_2021?alt=media&token=f501b158-985a-4193-a193-b7776f746a09",
+                    "paper_name": "DM_winter_2021"
+                  }
+                },
+                "subject_name": "DM"
+              },
+              "OOP": {
+                "PaperList": {
+                  "OOP_summer_2020": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%204%2FOOP%2FOOP_summer_2020?alt=media&token=0335dbda-697c-45b8-8b1f-a86b69bf92a7",
+                    "paper_name": "OOP_summer_2020"
+                  },
+                  "OOP_summer_2021": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%204%2FOOP%2FOOP_summer_2021?alt=media&token=0cfe398d-3ef0-4834-93d6-9b1d42113514",
+                    "paper_name": "OOP_summer_2021"
+                  },
+                  "OOP_summer_2022": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%204%2FOOP%2FOOP_summer_2022?alt=media&token=82c52b12-f738-472a-9bcf-798a0f8e737b",
+                    "paper_name": "OOP_summer_2022"
+                  },
+                  "OOP_winter_2020": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%204%2FOOP%2FOOP_winter_2020?alt=media&token=aea72a4b-5764-4404-be62-053f60b7b68b",
+                    "paper_name": "OOP_winter_2020"
+                  },
+                  "OOP_winter_2021": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%204%2FOOP%2FOOP_winter_2021?alt=media&token=4544f05e-a42d-497e-b463-9090aef8ad0f",
+                    "paper_name": "OOP_winter_2021"
+                  }
+                },
+                "subject_name": "OOP"
+              },
+              "OS": {
+                "PaperList": {
+                  "OS_summer_2020": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%204%2FOS%2FOS_summer_2020?alt=media&token=ee41c330-84ab-4dd0-9984-1f4b1486b2cc",
+                    "paper_name": "OS_summer_2020"
+                  },
+                  "OS_summer_2021": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%204%2FOS%2FOS_summer_2021?alt=media&token=aaea7a4b-f731-4215-8e56-f8f7b01ae9b2",
+                    "paper_name": "OS_summer_2021"
+                  },
+                  "OS_summer_2022": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%204%2FOS%2FOS_summer_2022?alt=media&token=3c119142-3129-41bc-a2dc-0c0eed614ac4",
+                    "paper_name": "OS_summer_2022"
+                  },
+                  "OS_winter_2020": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%204%2FOS%2FOS_winter_2020?alt=media&token=929fd907-c0c0-4fb9-ab6f-1ebb0120b5a9",
+                    "paper_name": "OS_winter_2020"
+                  },
+                  "OS_winter_2021": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%204%2FOS%2FOS_winter_2021?alt=media&token=7edc210a-678b-452a-92b6-1c86b6469fc9",
+                    "paper_name": "OS_winter_2021"
+                  }
+                },
+                "subject_name": "OS"
+              },
+              "PEM": {
+                "PaperList": {
+                  "PEM_summer_2020": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%204%2FPEM%2FPEM_summer_2020?alt=media&token=59ac7f8a-0029-4c0b-835e-1fe25aa63f45",
+                    "paper_name": "PEM_summer_2020"
+                  },
+                  "PEM_summer_2021": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%204%2FPEM%2FPEM_summer_2021?alt=media&token=8d71453c-99b6-42bf-beb1-4a9bc199a425",
+                    "paper_name": "PEM_summer_2021"
+                  },
+                  "PEM_summer_2022": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%204%2FPEM%2FPEM_summer_2022?alt=media&token=e5cceadc-b9a8-47d8-9e65-d79e408db852",
+                    "paper_name": "PEM_summer_2022"
+                  },
+                  "PEM_winter_2020": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%204%2FPEM%2FPEM_winter_2020?alt=media&token=4a694f95-60d3-4167-97ca-f17da3a2ad02",
+                    "paper_name": "PEM_winter_2020"
+                  },
+                  "PEM_winter_2021": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%204%2FPEM%2FPEM_winter_2021?alt=media&token=46ab467d-e776-443d-8c4b-5710d7965345",
+                    "paper_name": "PEM_winter_2021"
+                  }
+                },
+                "subject_name": "PEM"
+              }
+            },
+            "sem_name": "Sem 4"
+          },
+          "Sem 5": {
+            "SubjectList": {
+              "CPD": {
+                "PaperList": {
+                  "CPD_summer_2021": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%205%2FCPD%2FCPD_summer_2021?alt=media&token=c24d7ae7-c6fb-4001-8877-b2cf40610327",
+                    "paper_name": "CPD_summer_2021"
+                  },
+                  "CPD_summer_2022": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%205%2FCPD%2FCPD_summer_2022?alt=media&token=d9c8614a-9314-4e36-bd26-3548e50d9da6",
+                    "paper_name": "CPD_summer_2022"
+                  },
+                  "CPD_winter_2020": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%205%2FCPD%2FCPD_winter_2020?alt=media&token=d36c64bf-2cb7-448a-9771-c54919aa9e1e",
+                    "paper_name": "CPD_winter_2020"
+                  },
+                  "CPD_winter_2021": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%205%2FCPD%2FCPD_winter_2021?alt=media&token=a19481b5-9445-475f-8bfb-9a0a131b7d03",
+                    "paper_name": "CPD_winter_2021"
+                  }
+                },
+                "subject_name": "CPD"
+              },
+              "IPD": {
+                "PaperList": {
+                  "IPD_summer_2021": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%205%2FIPD%2FIPD_summer_2021?alt=media&token=2e69fcd4-d768-45ba-a1b7-4d31fae7ad62",
+                    "paper_name": "IPD_summer_2021"
+                  },
+                  "IPD_summer_2022": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%205%2FIPD%2FIPD_summer_2022?alt=media&token=ed0ff927-a362-4bb3-a871-d78964b79fee",
+                    "paper_name": "IPD_summer_2022"
+                  },
+                  "IPD_winter_2020": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%205%2FIPD%2FIPD_winter_2020?alt=media&token=dc0c97af-b5a7-4b7b-94a1-77d5a9712d75",
+                    "paper_name": "IPD_winter_2020"
+                  },
+                  "IPD_winter_2021": {
+                    "paper_link": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/PaperPdf%2FInformation%20Technology%20%2FSem%205%2FIPD%2FIPD_winter_2021?alt=media&token=18aefa5c-2905-4193-9e4f-29c2a0bf6b4b",
+                    "paper_name": "IPD_winter_2021"
+                  }
+                },
+                "subject_name": "IPD"
+              }
+            },
+            "sem_name": "Sem 5"
+          },
+          "Sem 6": {
+            "sem_name": "Sem 6"
+          },
+          "Sem 7": {
+            "sem_name": "Sem 7"
+          }
+        },
+        "branch_logo": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/BranchLogo%2F1671543219229?alt=media&token=91825abb-0143-476e-b960-2043fc482881",
+        "branch_name": "Information Technology "
+      },
+      "Mechanical Engineering ": {
+        "branch_logo": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/BranchLogo%2F1671543251206?alt=media&token=0d1f3afc-2bcd-41bd-9537-5955d4371545",
+        "branch_name": "Mechanical Engineering "
+      },
+      "Textile Technology ": {
+        "branch_logo": "https://firebasestorage.googleapis.com/v0/b/dolphy-729b3.appspot.com/o/BranchLogo%2F1674566043574?alt=media&token=71561198-f6d9-4010-ada4-6068d93f3441",
+        "branch_name": "Textile Technology "
+      }
+    }
+  }
